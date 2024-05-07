@@ -74,6 +74,26 @@ reverse("Renter");
 reverse("Elia mag alle Bohnen");
 reverse("an nesaH has ennaH");
 // Array Level 2_3 (slice)
+const oldPainters: string[] = [
+    "Caspar David Friedrich",
+    "Mary Cassatt",
+    "Rosa Bonheur",
+    "Francisco de Goya",
+    "Édouard Manet"
+];
+
+console.log(oldPainters);
+
+const newerPainters: string[] = [
+    "Pablo Picasso",
+    "Salvador Dalí",
+    "Frida Kahlo",
+    "Georgia O'Keeffe"
+];
+
+console.log(newerPainters);
+
+
 
 // Array Level 1_14 (copy)
 
